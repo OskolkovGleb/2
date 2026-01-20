@@ -1,0 +1,24 @@
+﻿{
+  "location": "Темный лес",
+  "u": {
+    "level": 15,
+    "name": "Рыцарь",
+    "gender": "m"
+  },
+  "items": [
+    {
+      "name": "Меч дракона",
+      "quantity": 1
+    },
+    {
+      "name": "Щит",
+      "quantity": 2
+    },
+    {
+      "name": "Зелье здоровья",
+      "quantity": 5
+    }
+  ],
+  "created": "2026-01-20T22:02:45.7016133+07:00",
+  "fileName": "forest_save"
+}

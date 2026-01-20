@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameSave>
+  <Location>Темный лес</Location>
+  <u rank="15">
+    <Name>Рыцарь</Name>
+    <Gender>m</Gender>
+  </u>
+  <Items>
+    <GameItem>
+      <Name>Меч дракона</Name>
+      <Quantity>1</Quantity>
+    </GameItem>
+    <GameItem>
+      <Name>Щит</Name>
+      <Quantity>2</Quantity>
+    </GameItem>
+    <GameItem>
+      <Name>Зелье здоровья</Name>
+      <Quantity>5</Quantity>
+    </GameItem>
+  </Items>
+  <Created>2026-01-20T22:02:45.7016133+07:00</Created>
+  <FileName>forest_save</FileName>
+</GameSave>
